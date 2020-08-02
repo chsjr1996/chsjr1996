@@ -4,4 +4,4 @@ Me chamo Carlos Henrique, sou apaixonado por distribuições Linux e por aprende
 
 - 🔭 Atualmente trabalhando: Next Tecnologia
 - 🌱 Atualmente aprendendo: Gatsby, conceitos avançados de Node.JS, ReactJS & Typescript, etc...
-- 🌍 Saiba mais em: https://chsjr1996.github.io
+- 🌍 https://sourcevortex.com.br
