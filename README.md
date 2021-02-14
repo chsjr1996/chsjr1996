@@ -10,14 +10,23 @@
       "PHP"
     ],
     "frameworks": [
+      "NestJS",
       "ExpressJS",
       "Laravel",
       "Symfony",
       "SlimPHP"
     ],
     "tools": [
-      "jest"
+      "Jest",
+      "Travis CI",
+      "Docker",
+      "Coveralls"
     ],
+    "DevOps": [
+      "Linux concepts",
+      "App deploy",
+      "AWS, GCP, Digital Ocean and others"
+    ]
   }
 }
 ```
